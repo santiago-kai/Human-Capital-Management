@@ -1,1 +1,1 @@
-![](./images/Human Capital Management.png)
+./images/Human Capital Management.png
